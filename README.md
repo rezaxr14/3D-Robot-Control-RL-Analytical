@@ -8,7 +8,7 @@ This project provides a comprehensive simulation and control suite for a 3-link 
 
 Watch the robot arm in action! The video below showcases both the analytical solver tracking a moving target and the trained reinforcement learning agent successfully reaching its goals.
 
-[![RL Robot Arm Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "RL Robot Arm Demo")
+[![RL Robot Arm Demo](https://github.com/rezaxr14/3D-Robot-Control-RL-Analytical/blob/main/Screenshots/inv_kin_Figure_2.png)](https://youtu.be/OU_E-vsCCfU "RL Robot Arm Demo")
 
 ---
 
@@ -64,7 +64,7 @@ Follow these steps to get the project running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/rezaxr14/3D-Robot-Control-RL-Analytical.git](https://github.com/rezaxr14/3D-Robot-Control-RL-Analytical.git)
     cd your-repo-name
     ```
 
