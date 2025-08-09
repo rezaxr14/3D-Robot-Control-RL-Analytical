@@ -16,10 +16,10 @@ Watch the robot arm in action! The video below showcases both the analytical sol
 
 | Analytical IK in Action | RL Agent Reaching Target |
 | :---------------------: | :----------------------: |
-| ![IK Tracking](https://placehold.co/600x400/3498db/ffffff?text=IK+Tracking+Screenshot) | ![RL Success](https://placehold.co/600x400/2ecc71/ffffff?text=RL+Success+Screenshot) |
+| ![IK Tracking](https://github.com/rezaxr14/3D-Robot-Control-RL-Analytical/blob/main/Screenshots/inv_kin_Figure_2.png) | ![RL Success](https://github.com/rezaxr14/3D-Robot-Control-RL-Analytical/blob/main/Screenshots/RL_Figure_1.png) |
 | Analytical IK in Action | RL Agent Reaching Target |
 | :--------------------------: | :---------------------: |
-| ![Starting Game Background 1](https://i.imgur.com/your_image_link_1.jpg) | ![Gameplay Background 1](https://i.imgur.com/your_image_link_2.jpg) |
+| ![Starting Game Background 1](https://github.com/rezaxr14/3D-Robot-Control-RL-Analytical/blob/main/Screenshots/inv_kin_Figure_1.png) | ![RL Agent Reaching Target](https://github.com/rezaxr14/3D-Robot-Control-RL-Analytical/blob/main/Screenshots/RL_Figure_4.png) |
 
 ---
 
